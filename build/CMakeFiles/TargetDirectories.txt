@@ -1,0 +1,5 @@
+/home/a/mysqlconnpool/build/CMakeFiles/edit_cache.dir
+/home/a/mysqlconnpool/build/CMakeFiles/rebuild_cache.dir
+/home/a/mysqlconnpool/build/src/CMakeFiles/ConnPool.dir
+/home/a/mysqlconnpool/build/src/CMakeFiles/edit_cache.dir
+/home/a/mysqlconnpool/build/src/CMakeFiles/rebuild_cache.dir
