@@ -1,2 +1,2 @@
 # MySQLConnpool
-C++实现的mysql连接池，以减少服务器频繁创建mysql连接带来的性能开销。
+C++实现的MySQL连接池，以减少服务器频繁创建MySQL连接带来的性能开销。
